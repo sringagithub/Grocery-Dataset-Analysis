@@ -1,1 +1,1 @@
-A simple analysis of Grocery dataset.
+A simple analysis of a grocery dataset.
